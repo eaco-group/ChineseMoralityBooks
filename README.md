@@ -80,6 +80,8 @@ https://t.me/eCNHusdc
 
 如果需要具体的跨链步骤或某个资产的跨链细节，欢迎交流。
 
+https://www.oklink.com/solana
+
 Wrapped BTC (Wormhole) https://solscan.io/token/3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh
 
 Wrapped BNB (Wormhole) https://solscan.io/token/9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa
