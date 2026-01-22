@@ -106,5 +106,9 @@ eCNH, https://solscan.io/token/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
 
 # 地球村华商eCNH网友公益小组2026
 
+
+为天地立心，为生民立命，为往圣继绝学，为万世开太平。
+
+
 正心 正念 正能量，愿意 悄悄 回向 滋养 宇宙万物；累积阴德为主，阳德为辅；随时完善优化升级！
 
