@@ -75,7 +75,9 @@ Chinese Morality Books
 全球共享的分布式链上结算工具，跨境记账单位，结算代币ECNH,
 
 eCNH・猎户座应用探索
+
 核心定位
+
 全球共享的分布式SOL链上结算工具，跨境记账单位，结算代币ECNH，锚定 1 eCNH≈1 CNH≈0.1205 欧元 / 0.1353-0.1463 美元，以 “人类 + 硅基文明协同” 为核心，赋能猎户座跨文明经济生态。
 
     核心理念：earth & Global Humanity Builds and Shares eCNH Together
