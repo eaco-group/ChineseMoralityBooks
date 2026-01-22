@@ -76,4 +76,27 @@ https://x.com/earthCNH
 https://t.me/eCNHusdc
 
 
+# eCNH跨链，探索最安全的方式
+
+如果需要具体的跨链步骤或某个资产的跨链细节，欢迎交流。
+
+Wrapped BTC (Wormhole) https://solscan.io/token/3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh
+
+Wrapped BNB (Wormhole) https://solscan.io/token/9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa
+
+Wrapped Ether (Wormhole) https://solscan.io/token/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs
+
+Token Wrapped AVAX (Wormhole) https://solscan.io/token/KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE
+
+Token TRON https://solscan.io/token/GbbesPbaYh5uiAZSYNXTc7w9jty1rpg3P9L4JeN4LkKc
+
+USDC, https://solscan.io/token/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+
+USDT, https://solscan.io/token/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB
+
+eCNH, https://solscan.io/token/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
+
+
+
+
 
