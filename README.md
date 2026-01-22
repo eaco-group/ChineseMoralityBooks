@@ -106,6 +106,9 @@ eCNH, https://solscan.io/token/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
 
 # 地球村华商eCNH网友公益小组2026
 
+念不随人，气归本位；运不外借，光不外泄；缘有分寸，各走其界。
+
+止怨既是得福，止怒既是避祸。
 
 为天地立心，为生民立命，为往圣继绝学，为万世开太平。
 
